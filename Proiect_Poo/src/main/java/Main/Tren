@@ -1,0 +1,12 @@
+Ir201 Bucuresti Constanta 20 30 8:00 12:00 Intercity 228
+Ir202 Constanta Bucuresti 20 30 10:00 10:00 Personal 228
+Ir203 Constanta Iasi 20 30 19:00 20:00 Rapid 452
+Ir204 Constanta Bacau 20 30 12:00 15:00 Personal 386
+Ir205 Iasi Constanta 20 30 20:00 00:00 Intercity 452
+Ir206 Bucuresti Iasi 30 20 13:00 16:00 Rapid 392
+Ir207 Bucuresti Brasov 30 20 11:00 19:00 Personal 185
+Ir208 Iasi Constanta 30 20 20:45 5:11 Rapid 452
+Ir209 Iasi Brasov 30 20 8:00 15:30 Intercity 308
+Ir210 Timisoara Bucuresti 30 20 10:45 20:00 Intercity 547
+Ir211 Bucuresti Timisoara 30 20 11:35 17:00 Intercity 547
+Ir212 Constanta Bucuresti 20 30 13:00 15:00 Rapid 228
